@@ -2,7 +2,7 @@
 title: "Gestion des positions"
 ---
 
-Que la numérotation soit continue ou métrique, la position du numéro doit être précisée1. Cette information est obligatoire et nécessaire pour l’accès des secours et des réseaux. Lorsque la position n’est pas renseignée, l’adresse perd en qualité. Il n’est pas nécessaire de fournir plusieurs positions pour une adresse, la position entrée est celle qui est intéresse le plus grand nombre d'utilisateurs (dans l’éditeur Mes Adresses, l’entrée est la position proposée par défaut).
+Que la numérotation soit continue ou métrique, la position du numéro doit être précisée. Cette information est obligatoire et nécessaire pour l’accès des secours et des réseaux. Lorsque la position n’est pas renseignée, l’adresse perd en qualité. Il n’est pas nécessaire de fournir plusieurs positions pour une adresse, la position entrée est celle qui est intéresse le plus grand nombre d'utilisateurs (dans l’éditeur Mes Adresses, l’entrée est la position proposée par défaut).
 
 1 Dans « Mes Adresses », éditeur de Base Adresse Locale (https://mes-adresses.data.gouv.fr/), renseigner le menu déroulant lors de la création du numéro.
 
